@@ -1,0 +1,19 @@
+{
+  "name": "p5-demo",
+  "version": "1.0.0",
+  "description": "Setting up P5 to use Grunt, Git.",
+  "main": "app/index.html",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfsterling/p5-sketch-environment.git"
+  },
+  "author": "William F Sterling",
+  "bugs": {
+    "url": "https://github.com/wfsterling/p5-sketch-environment/issues"
+  },
+  "homepage": "https://github.com/wfsterling/p5-sketch-environment#readme"
+}
